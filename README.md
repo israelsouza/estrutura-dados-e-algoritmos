@@ -45,3 +45,12 @@ modelagem:
 enquanto a primeira `cria uma cópia de uma lista` a segunda `faz referencia a lista definida` exibindo na img o endereço na memória na qual a lista esta sendo salva
 
 - [file](./lista-linear-sequencial.c)
+
+04 - Lista linear sequencial (continuação)
+
+o que é visto?
+- otimização da busca sequencial (busca com elemento sentinela)
+- inserir elemento ordenado
+- busca binaria
+
+- [file](./lista-linear-continuacao.c)
