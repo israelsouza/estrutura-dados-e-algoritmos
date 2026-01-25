@@ -54,3 +54,7 @@ o que é visto?
 - busca binaria
 
 - [file](./lista-linear-continuacao.c)
+
+05 - Lista ligada (implementação estática)
+
+- [file](./lista-ligada.c)
