@@ -58,3 +58,9 @@ o que é visto?
 05 - Lista ligada (implementação estática)
 
 - [file](./lista-ligada.c)
+
+06 - Lista ligada (implementação dinâmica)
+
+Dinamico aqui significa qu pPara cada elemento que vai ser criado é alocado um espaço na memoria para armazena-lo (diferente de antes, onde o limite era estático) e quando se exclui a memoria é liberada.
+
+- [file](./lista-ligada-dinamica.c)
