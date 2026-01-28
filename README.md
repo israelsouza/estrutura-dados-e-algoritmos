@@ -64,3 +64,8 @@ o que é visto?
 Dinamico aqui significa qu pPara cada elemento que vai ser criado é alocado um espaço na memoria para armazena-lo (diferente de antes, onde o limite era estático) e quando se exclui a memoria é liberada.
 
 - [file](./lista-ligada-dinamica.c)
+
+07 - Lista ligada circular com nó cabeça
+
+- [file](./lista-ligada-no-cabeca.c)
+
