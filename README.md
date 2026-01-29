@@ -69,3 +69,8 @@ Dinamico aqui significa qu pPara cada elemento que vai ser criado é alocado um 
 
 - [file](./lista-ligada-no-cabeca.c)
 
+08 - Pilha (implementação estática)
+
+Estrutura linear onde elementos a serem inseridos e excluidos sempre ficam no topo
+
+- [file](./pilha-estatica.c)
