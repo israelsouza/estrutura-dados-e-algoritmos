@@ -74,3 +74,10 @@ Dinamico aqui significa qu pPara cada elemento que vai ser criado é alocado um 
 Estrutura linear onde elementos a serem inseridos e excluidos sempre ficam no topo
 
 - [file](./pilha-estatica.c)
+
+09 - Pilha (implementação dinâmica)
+
+Testei fazer diferente, após o prof falar o método, primeiro tentei implementar sem o vídeo. Consegui, pegar a lógica com mais facilidade pegando exemplo da [lista ligada dinâmica](./lista-ligada-dinamica.c) e adaptando para a pilha. O ultimo, depois de tentativas primeiro, consegui implementar com sucesso!!!
+
+- [file](./pilha-dinamica.c)
+
