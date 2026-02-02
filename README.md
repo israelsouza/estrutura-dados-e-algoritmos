@@ -81,3 +81,12 @@ Testei fazer diferente, após o prof falar o método, primeiro tentei implementa
 
 - [file](./pilha-dinamica.c)
 
+10 - Deque
+
+Espécie de fila com duas extremidades. Exemplos de uso:
+- Histórico de navegador web
+  - quando limite é atingido, a ponta antiga começa a 'deletar' registros e a ponta nova inclui os novos registros
+- Agendamento de tarefas por prioridades
+  - se for prioridade, vai pro inicio da fila, se não vai pro final
+  - (pensei agr: no MC, checa se a pessoa é um diretor ou associado, se for é dado prioridade para essas pessoas, se não, vai pro fim da fila mesmo (só pensei, não acho que seja real))
+
