@@ -90,3 +90,15 @@ Espécie de fila com duas extremidades. Exemplos de uso:
   - se for prioridade, vai pro inicio da fila, se não vai pro final
   - (pensei agr: no MC, checa se a pessoa é um diretor ou associado, se for é dado prioridade para essas pessoas, se não, vai pro fim da fila mesmo (só pensei, não acho que seja real))
 
+- [file](./deque.c)
+
+
+11 - Fila (imp. estática)
+
+Assim como uma fila de mercado, banco... . Exemplos de casos de uso: 
+- Saúde
+- Alimentação
+- Gov
+
+- [file](./fila.c)
+
