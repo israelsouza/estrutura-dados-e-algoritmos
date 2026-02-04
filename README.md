@@ -102,3 +102,6 @@ Assim como uma fila de mercado, banco... . Exemplos de casos de uso:
 
 - [file](./fila.c)
 
+12 - Fila (imp. dinâmica)
+
+- [file](./fila-dinamica.c)
