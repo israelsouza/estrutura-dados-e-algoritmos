@@ -40,7 +40,7 @@ modelagem:
 - registros possuem dados relevantes ao usuário
 - arranjo possui tamanho fixo
 
-![IMG01](./attach/image.png)
+![IMG01](./attach/image-pilha.png)
 
 enquanto a primeira `cria uma cópia de uma lista` a segunda `faz referencia a lista definida` exibindo na img o endereço na memória na qual a lista esta sendo salva
 
@@ -105,3 +105,17 @@ Assim como uma fila de mercado, banco... . Exemplos de casos de uso:
 12 - Fila (imp. dinâmica)
 
 - [file](./fila-dinamica.c)
+
+13 - Pilha dupla
+
+Feita para um problema mais específico, quando há um total fixo (30 alunos) mas precisam ser agrupados em sub grupos (aprovados e reprovados).
+
+Feito assim para manter contexto e gerenciamento único. Cada topo cresce em direção a seu oposto.
+
+Cenarios de caso de uso:
+- Em um condomio, onde há numero total de casas, mas é preciso saber quais pagaram e quais não pagaram no mês recorrente.
+- Em uma equipe, onde há um número total de integrantes, mas é preciso saber quais fizeram horas extras e quais não fizeram.
+
+![IMG02](image-pilha-pilha.png)
+
+- [file](./pilha-dupla.c)
