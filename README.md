@@ -119,3 +119,20 @@ Cenarios de caso de uso:
 ![IMG02](image-pilha-pilha.png)
 
 - [file](./pilha-dupla.c)
+
+14 - Matriz esparsa
+
+Utilizada quando maior parte elementos tem valor padrão, e só alguns tem valores diferentes. Portanto, por so alocar memoria para esses valores diferentes do padrão, torna a estrutura eficiente em gasto de memoria e processamento.
+
+Possivel usar para representar grafos (aula mais adiante).
+
+Casos de uso:
+- Imagem em preto e branco
+- PLN
+- Machine Learning
+- Sistema de recomendação
+
+![IMG03](./attach/image-matriz.png)
+
+- [file](./matriz-esparsa.c)
+
