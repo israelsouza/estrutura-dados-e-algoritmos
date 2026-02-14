@@ -136,3 +136,7 @@ Casos de uso:
 
 - [file](./matriz-esparsa.c)
 
+15 - Arvores (conceito base)
+
+- [file](./arvore-binaria.c)
+
