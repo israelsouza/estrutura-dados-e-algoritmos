@@ -140,7 +140,7 @@ Casos de uso:
 
 - [file](./arvore-binaria.c)
 
-16 - Arvore binária de pesquisa
+16 - Arvore binária de pesquisa (parte 1)
 
 Adiciona a implementação feita da árvore (15) a função de inicializar e de inserção.
 - Foi definido que não haverá números repetidos.
@@ -152,3 +152,15 @@ A ordem de inserção define a forma da árvore. Vamos tratar adiante como isso 
 
 - [file](./arvore-binaria.c)
 
+17 - Arvore binária de pesquisa (parte 2)
+
+implementa
+- buscar um elemento (sim, de maneira binaria tambem)
+- contagem da quantidade de elementos
+- leitura/impressão dos elementos da arvore
+
+
+
+
+
+- [file](./arvore-binaria.c)
