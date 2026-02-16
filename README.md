@@ -140,3 +140,15 @@ Casos de uso:
 
 - [file](./arvore-binaria.c)
 
+16 - Arvore binária de pesquisa
+
+Adiciona a implementação feita da árvore (15) a função de inicializar e de inserção.
+- Foi definido que não haverá números repetidos.
+
+A ordem de inserção define a forma da árvore. Vamos tratar adiante como isso vai ser trabalhado.
+
+![com ordem correta](./attach/image-abp-fine.png)
+![sem ordem, tornando uma lista ligada/galho seco](./attach/image-abp-galho.png)
+
+- [file](./arvore-binaria.c)
+
