@@ -159,8 +159,12 @@ implementa
 - contagem da quantidade de elementos
 - leitura/impressão dos elementos da arvore
 
+18 - Arvore binária de pesquisa (parte final)
 
+implementa
+- remoção de um nó
 
-
-
+![exemplo visual](./attach/image-ex-removerbinaria.png)
+![exemplo visual 2](./attach/image-ex-removerbinaria2.png)
 - [file](./arvore-binaria.c)
+
