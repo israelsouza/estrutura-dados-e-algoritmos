@@ -168,3 +168,10 @@ implementa
 ![exemplo visual 2](./attach/image-ex-removerbinaria2.png)
 - [file](./arvore-binaria.c)
 
+19 - Arvore N-ária
+
+pode ter limite definido ou indefinido
+
+
+- [file](./arvore-naria.c)
+
