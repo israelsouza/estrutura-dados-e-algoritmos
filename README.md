@@ -175,3 +175,14 @@ pode ter limite definido ou indefinido
 
 - [file](./arvore-naria.c)
 
+20 - Trie (tipo de arvore n-ária com limite)
+
+casos de uso:
+- autocompletar e sugestão de busca
+- previsão de texto
+compactação de dados
+- bioinformática
+
+
+- [file](./arvore-tries.c)
+
