@@ -186,3 +186,11 @@ compactação de dados
 
 - [file](./arvore-tries.c)
 
+21 e 22 - Arvore AVL
+
+é uma arvore de busca binária, com balanceamento, o que evita que se torne uma lista ligada (no pior dos cenarios).
+
+o fator de balanceamento do nó é de +1, 0, -1. qualquer número diferente faz com que a função de balanceamento seja chamada
+
+- [file](./arvore-avl.c)
+
