@@ -194,3 +194,18 @@ o fator de balanceamento do nó é de +1, 0, -1. qualquer número diferente faz 
 
 - [file](./arvore-avl.c)
 
+23 - grafo: conceitos bases (papel)
+
+24 - grafo: representações
+
+algumas maneiras de representar computacionalmente, cada uma contendo seus trade-offs conforme o tamanho do grafo
+
+implem. com uso de matrizes de adjacências
+![grafo-com-matrizes](./attach/image-com-matrizes.png)
+
+implem. com uso de listas de adjacências
+![grado-com-listas](./attach/image-grafo-com-listas.png)
+
+
+- [file](./grafo.c)
+
