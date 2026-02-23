@@ -209,3 +209,14 @@ implem. com uso de listas de adjacências
 
 - [file](./grafo.c)
 
+25 - Operações básicas
+
+Foi implementado:
+
+1. Criação grafo sem aresta. 
+2. Inclusão de aresta (adjacência) no grafo. 
+3. Visualização do grafo. 
+
+- [file](./grafo.c)
+
+
