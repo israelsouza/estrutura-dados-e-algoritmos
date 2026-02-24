@@ -220,3 +220,9 @@ Foi implementado:
 - [file](./grafo.c)
 
 
+
+26 - Buscas em profundidade
+
+
+
+- [file](./grafo-busca-profundidade.c)
