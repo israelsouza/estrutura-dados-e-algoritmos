@@ -220,9 +220,14 @@ Foi implementado:
 - [file](./grafo.c)
 
 
-
 26 - Buscas em profundidade
 
-
-
 - [file](./grafo-busca-profundidade.c)
+
+
+27 - Buscas em largura (BFS)
+
+Nos da a menor distância em número de aresta (relacionamento). Ou seja, se mudar o nó inicial, o resultado vai mudar tambem.
+
+- [file](./grafo-busca-largura.c)
+
