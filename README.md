@@ -231,3 +231,14 @@ Nos da a menor distância em número de aresta (relacionamento). Ou seja, se mud
 
 - [file](./grafo-busca-largura.c)
 
+
+28 - Grafo com algoritmo de Dijkstra
+
+O algoritmo BFS tem como ponto negativo, a depender do contexto, não levar em conta o peso das arestas/relações. Então em um cenário de GPS, por exemplo, onde preciso determinar o menor caminho do ponto A ao ponto B ele não é útil. Ai que entra esse algoritmo, ele vai varrendo todo o grafo e atualizando segundo o caminho mais curto.
+
+Limitante: peso das arestas positivos.
+
+A versão de `existirAberto` e `menorDistancia` não são a melhor implementação no quesito `velocidade`. (olhar `fila de prioridade`)
+
+- [file](./grafo-algoritmo-dijkstra.c)
+
